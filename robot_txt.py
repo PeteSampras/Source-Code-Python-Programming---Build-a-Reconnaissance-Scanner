@@ -20,5 +20,5 @@ def get_robots_txt(url):
 	
 	
 	
-#print(get_robots_txt('http://www.krucil.net/'))
+#print(get_robots_txt('http://www.google.net/'))
 	
